@@ -41,6 +41,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
+- [TheftRadar](https://theftradar.pro/) – A free, public national stolen-property register: victims report theft in minutes, search serials before secondhand purchases, browse a live theft map, and generate police-ready evidence packets.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
 
