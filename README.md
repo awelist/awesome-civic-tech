@@ -51,6 +51,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
 - [TheyWorkForYou](https://www.theyworkforyou.com/) – Tracks and explains what UK MPs do in Parliament.
 - [Global Law](https://github.com/lexifina/global-law) – The law of 208 jurisdictions in git: any provision on any date, and the law that wrote each word.
+- [Charitology](https://github.com/theguysaccount/charitology) – Open-source Global Charity Index (31 jurisdictions, 3.34M official registry records), 48 public funding-flow datasets, and free MIT-licensed Charity OS.
 
 ## Digital Democracy & Participation
 
