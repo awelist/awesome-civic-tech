@@ -51,7 +51,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
 - [TheyWorkForYou](https://www.theyworkforyou.com/) – Tracks and explains what UK MPs do in Parliament.
 - [Global Law](https://github.com/lexifina/global-law) – The law of 208 jurisdictions in git: any provision on any date, and the law that wrote each word.
-- [Congress Trade Filing Lag](https://disclosures.ayskilllab.com/) – Free aggregate statistics on how late U.S. members of Congress file their STOCK Act trade disclosures, built from the official House and Senate filings.
+- [Congress Trade Filing Lag](https://disclosures.ayskilllab.com/) – Free aggregate statistics on how late U.S. members of Congress file their STOCK Act trade disclosures, built from House Clerk reports and public mirrors of Senate filings.
 
 ## Digital Democracy & Participation
 
