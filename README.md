@@ -36,6 +36,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Decidim](https://decidim.org/) – A digital infrastructure for participatory democracy, used by cities around the world.
 - [Consul](https://consuldemocracy.org/) – Open source platform for citizen participation in democratic processes.
 - [Pol.is](https://pol.is/) – A real-time system for gathering, analyzing, and understanding what large groups of people think in their own words.
+- [Crime Brasil](https://crimebrasil.com.br) – Open data platform consolidating Brazilian public-safety microdata (3M+ incidents, city and neighbourhood level, 2022-2026) with a free API.
 
 ## Civic Apps & Tools
 
